@@ -1,0 +1,21 @@
+* Op Freqs
+
+** Voice Frequencies 
+|    Out |     In | Tone         | Name                   | Notes                                                           |
+|--------+--------+--------------+------------------------+-----------------------------------------------------------------|
+| 147.18 | 147.78 | 100 Hz Tone  | Snowbird / Hidden Peak |                                                                 |
+| 147.12 | 147.72 | 100 Hz Tone  | Lt Farnsworth          | SLC Area                                                        |
+| 145.27 | 144.67 | 100 Hz Tone  | Scotts Peak            | Cottonwood Canyons)                                             |
+| 146.86 | 146.26 | 100 Hz Tone  | Medicine Butte         | Evanston Area (May or may not work)                             |
+| 145.19 | 144.59 | 88.5 Hz Tone | Heber                  | Heber/Midway Areas (Possible portable repeater this event only) |
+| 147.20 | 147.80 | 88.5 Hz Tone | Wilson Peak            | Heber Area (May or may not Work)                                |
+
+** Packet Radio Frequencies 
+|        Freq. | Location               | Node Name                         |
+|--------------+------------------------+-----------------------------------|
+|       145.05 | Ensign Peak            | “PEAK”                            |
+|       144.93 | Antelope Island        | “ISLAND”                          |
+|       144.97 | Mountain Dell          | “MDELL”                           |
+|       144.99 | Lewis Peak             | “LEWIS”                           |
+|       144.91 | or 145.53 Clayton Peak | “CLAY”                            |
+| UHF Backbone |                        | “RACE”    Finish – Soldier Hollow |
